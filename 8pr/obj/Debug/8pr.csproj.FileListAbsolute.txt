@@ -1,0 +1,7 @@
+D:\Овчарук_Марков 215\8pr\bin\Debug\8pr.exe.config
+D:\Овчарук_Марков 215\8pr\bin\Debug\8pr.exe
+D:\Овчарук_Марков 215\8pr\bin\Debug\8pr.pdb
+D:\Овчарук_Марков 215\8pr\obj\Debug\8pr.csproj.AssemblyReference.cache
+D:\Овчарук_Марков 215\8pr\obj\Debug\8pr.csproj.CoreCompileInputs.cache
+D:\Овчарук_Марков 215\8pr\obj\Debug\8pr.exe
+D:\Овчарук_Марков 215\8pr\obj\Debug\8pr.pdb
