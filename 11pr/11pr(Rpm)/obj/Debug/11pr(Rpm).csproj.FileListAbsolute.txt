@@ -1,0 +1,8 @@
+D:\115\11pr(Rpm)\bin\Debug\11pr(Rpm).exe.config
+D:\115\11pr(Rpm)\bin\Debug\11pr(Rpm).exe
+D:\115\11pr(Rpm)\bin\Debug\11pr(Rpm).pdb
+D:\115\11pr(Rpm)\obj\Debug\11pr(Rpm).csproj.AssemblyReference.cache
+D:\115\11pr(Rpm)\obj\Debug\11pr(Rpm).csproj.SuggestedBindingRedirects.cache
+D:\115\11pr(Rpm)\obj\Debug\11pr(Rpm).csproj.CoreCompileInputs.cache
+D:\115\11pr(Rpm)\obj\Debug\11pr(Rpm).exe
+D:\115\11pr(Rpm)\obj\Debug\11pr(Rpm).pdb
