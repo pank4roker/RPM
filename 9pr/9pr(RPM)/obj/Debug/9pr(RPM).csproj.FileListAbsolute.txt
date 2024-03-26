@@ -1,0 +1,8 @@
+D:\115\9pr(RPM)\bin\Debug\9pr(RPM).exe.config
+D:\115\9pr(RPM)\bin\Debug\9pr(RPM).exe
+D:\115\9pr(RPM)\bin\Debug\9pr(RPM).pdb
+D:\115\9pr(RPM)\obj\Debug\9pr(RPM).csproj.AssemblyReference.cache
+D:\115\9pr(RPM)\obj\Debug\9pr(RPM).csproj.SuggestedBindingRedirects.cache
+D:\115\9pr(RPM)\obj\Debug\9pr(RPM).csproj.CoreCompileInputs.cache
+D:\115\9pr(RPM)\obj\Debug\9pr(RPM).exe
+D:\115\9pr(RPM)\obj\Debug\9pr(RPM).pdb
