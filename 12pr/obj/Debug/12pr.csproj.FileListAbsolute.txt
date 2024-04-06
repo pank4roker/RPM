@@ -1,0 +1,7 @@
+D:\Марков_РПМ\12pr\bin\Debug\12pr.exe.config
+D:\Марков_РПМ\12pr\bin\Debug\12pr.exe
+D:\Марков_РПМ\12pr\bin\Debug\12pr.pdb
+D:\Марков_РПМ\12pr\obj\Debug\12pr.csproj.AssemblyReference.cache
+D:\Марков_РПМ\12pr\obj\Debug\12pr.csproj.CoreCompileInputs.cache
+D:\Марков_РПМ\12pr\obj\Debug\12pr.exe
+D:\Марков_РПМ\12pr\obj\Debug\12pr.pdb
