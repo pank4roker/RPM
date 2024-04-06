@@ -1,0 +1,7 @@
+D:\Овчарук_Марков 215\13pr(RPM)\bin\Debug\13pr(RPM).exe.config
+D:\Овчарук_Марков 215\13pr(RPM)\bin\Debug\13pr(RPM).exe
+D:\Овчарук_Марков 215\13pr(RPM)\bin\Debug\13pr(RPM).pdb
+D:\Овчарук_Марков 215\13pr(RPM)\obj\Debug\13pr(RPM).csproj.AssemblyReference.cache
+D:\Овчарук_Марков 215\13pr(RPM)\obj\Debug\13pr(RPM).csproj.CoreCompileInputs.cache
+D:\Овчарук_Марков 215\13pr(RPM)\obj\Debug\13pr(RPM).exe
+D:\Овчарук_Марков 215\13pr(RPM)\obj\Debug\13pr(RPM).pdb
