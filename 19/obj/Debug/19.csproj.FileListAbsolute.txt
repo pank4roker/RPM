@@ -6,3 +6,10 @@ C:\Users\Kirill\Desktop\19\obj\Debug\19.csproj.SuggestedBindingRedirects.cache
 C:\Users\Kirill\Desktop\19\obj\Debug\19.csproj.CoreCompileInputs.cache
 C:\Users\Kirill\Desktop\19\obj\Debug\19.exe
 C:\Users\Kirill\Desktop\19\obj\Debug\19.pdb
+C:\Users\Kab-35-6\Downloads\RPM-main (1)\RPM-main\19\bin\Debug\19.exe.config
+C:\Users\Kab-35-6\Downloads\RPM-main (1)\RPM-main\19\bin\Debug\19.exe
+C:\Users\Kab-35-6\Downloads\RPM-main (1)\RPM-main\19\bin\Debug\19.pdb
+C:\Users\Kab-35-6\Downloads\RPM-main (1)\RPM-main\19\obj\Debug\19.csproj.AssemblyReference.cache
+C:\Users\Kab-35-6\Downloads\RPM-main (1)\RPM-main\19\obj\Debug\19.csproj.CoreCompileInputs.cache
+C:\Users\Kab-35-6\Downloads\RPM-main (1)\RPM-main\19\obj\Debug\19.exe
+C:\Users\Kab-35-6\Downloads\RPM-main (1)\RPM-main\19\obj\Debug\19.pdb
