@@ -1,0 +1,8 @@
+C:\Users\Kirill\Desktop\21\bin\Debug\21.exe.config
+C:\Users\Kirill\Desktop\21\bin\Debug\21.exe
+C:\Users\Kirill\Desktop\21\bin\Debug\21.pdb
+C:\Users\Kirill\Desktop\21\obj\Debug\21.csproj.AssemblyReference.cache
+C:\Users\Kirill\Desktop\21\obj\Debug\21.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kirill\Desktop\21\obj\Debug\21.csproj.CoreCompileInputs.cache
+C:\Users\Kirill\Desktop\21\obj\Debug\21.exe
+C:\Users\Kirill\Desktop\21\obj\Debug\21.pdb
