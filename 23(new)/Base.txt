@@ -1,0 +1,4 @@
+Russia|Moscow|Russian|146000000|17098246|Ruble|Federal|President
+USA|Washington D.C.|English|331000000|9833520|Dollar|Federal Republic|President
+Italy|Rome|Italian|60360000|301340|Euro|Republic|President
+пап|вап|вп|111111111111|3235235|впапвап|пвапвап|впапв

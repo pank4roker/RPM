@@ -1,0 +1,8 @@
+C:\Users\Kirill\Desktop\24\bin\Debug\24.exe.config
+C:\Users\Kirill\Desktop\24\bin\Debug\24.exe
+C:\Users\Kirill\Desktop\24\bin\Debug\24.pdb
+C:\Users\Kirill\Desktop\24\obj\Debug\24.csproj.AssemblyReference.cache
+C:\Users\Kirill\Desktop\24\obj\Debug\24.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kirill\Desktop\24\obj\Debug\24.csproj.CoreCompileInputs.cache
+C:\Users\Kirill\Desktop\24\obj\Debug\24.exe
+C:\Users\Kirill\Desktop\24\obj\Debug\24.pdb
