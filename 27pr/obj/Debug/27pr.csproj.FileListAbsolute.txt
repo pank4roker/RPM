@@ -1,0 +1,8 @@
+C:\Users\Kirill\Desktop\27pr\bin\Debug\27pr.exe.config
+C:\Users\Kirill\Desktop\27pr\bin\Debug\27pr.exe
+C:\Users\Kirill\Desktop\27pr\bin\Debug\27pr.pdb
+C:\Users\Kirill\Desktop\27pr\obj\Debug\27pr.csproj.AssemblyReference.cache
+C:\Users\Kirill\Desktop\27pr\obj\Debug\27pr.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kirill\Desktop\27pr\obj\Debug\27pr.csproj.CoreCompileInputs.cache
+C:\Users\Kirill\Desktop\27pr\obj\Debug\27pr.exe
+C:\Users\Kirill\Desktop\27pr\obj\Debug\27pr.pdb
