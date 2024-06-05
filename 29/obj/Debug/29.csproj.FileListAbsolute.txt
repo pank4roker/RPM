@@ -1,0 +1,8 @@
+C:\Users\Kirill\Desktop\29\bin\Debug\29.exe.config
+C:\Users\Kirill\Desktop\29\bin\Debug\29.exe
+C:\Users\Kirill\Desktop\29\bin\Debug\29.pdb
+C:\Users\Kirill\Desktop\29\obj\Debug\29.csproj.AssemblyReference.cache
+C:\Users\Kirill\Desktop\29\obj\Debug\29.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kirill\Desktop\29\obj\Debug\29.csproj.CoreCompileInputs.cache
+C:\Users\Kirill\Desktop\29\obj\Debug\29.exe
+C:\Users\Kirill\Desktop\29\obj\Debug\29.pdb
