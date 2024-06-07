@@ -76,7 +76,11 @@ namespace _28pr
             string filePath = "C:\\Users\\Kab-31-13\\Desktop\\28pr\\cinema_posters.txt";
             CinemaPoster[] posters = new CinemaPoster[]
             {
-         
+              new CinemaPoster("Кинотеатр 1", new DateTime(2024, 6, 1), "Фильм 1", "Драма", new TimeSpan(14, 30, 0), 120),
+            new CinemaPoster("Кинотеатр 2", new DateTime(2024, 6, 2), "Фильм 2", "Комедия", new TimeSpan(16, 0, 0), 90),
+            new CinemaPoster("Кинотеатр 3", new DateTime(2024, 6, 3), "Фильм 3", "Боевик", new TimeSpan(18, 45, 0), 110),
+            new CinemaPoster("Кинотеатр 4", new DateTime(2024, 6, 7), "Фильм 4", "Ужасы", new TimeSpan(20, 0, 0), 105),
+            new CinemaPoster("Кинотеатр 5", new DateTime(2024, 6, 8), "Фильм 5", "Фантастика", new TimeSpan(19, 30, 0), 95),
             };
 
             // Запись массива киноафиш в файл

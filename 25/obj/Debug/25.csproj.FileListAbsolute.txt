@@ -1,0 +1,7 @@
+C:\Users\Kab-31-13\Desktop\25\bin\Debug\25.exe.config
+C:\Users\Kab-31-13\Desktop\25\bin\Debug\25.exe
+C:\Users\Kab-31-13\Desktop\25\bin\Debug\25.pdb
+C:\Users\Kab-31-13\Desktop\25\obj\Debug\25.csproj.AssemblyReference.cache
+C:\Users\Kab-31-13\Desktop\25\obj\Debug\25.csproj.CoreCompileInputs.cache
+C:\Users\Kab-31-13\Desktop\25\obj\Debug\25.exe
+C:\Users\Kab-31-13\Desktop\25\obj\Debug\25.pdb
