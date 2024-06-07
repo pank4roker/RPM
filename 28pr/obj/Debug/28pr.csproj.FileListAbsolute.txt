@@ -1,0 +1,7 @@
+C:\Users\Kab-31-13\Desktop\28pr\bin\Debug\28pr.exe.config
+C:\Users\Kab-31-13\Desktop\28pr\bin\Debug\28pr.exe
+C:\Users\Kab-31-13\Desktop\28pr\bin\Debug\28pr.pdb
+C:\Users\Kab-31-13\Desktop\28pr\obj\Debug\28pr.csproj.AssemblyReference.cache
+C:\Users\Kab-31-13\Desktop\28pr\obj\Debug\28pr.csproj.CoreCompileInputs.cache
+C:\Users\Kab-31-13\Desktop\28pr\obj\Debug\28pr.exe
+C:\Users\Kab-31-13\Desktop\28pr\obj\Debug\28pr.pdb
